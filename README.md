@@ -78,9 +78,20 @@ Nest is [MIT licensed](LICENSE).
 
 [https://docs.nestjs.com/cli/overview](https://docs.nestjs.com/cli/overview)
 
-    - initialize a new project
+- initialize a new project
 
-`nest new project-name` - `npm run start:dev` - create a new module
-`nest g module module-name` - generate a controller
-`nest g controller module-name --no-spec` - generate a service
+`nest new project-name`
+
+- `npm run start:dev`
+
+- create a new module
+
+`nest g module module-name`
+
+- generate a controller
+
+`nest g controller module-name --no-spec`
+
+- generate a service
+
 `nest g service module-name --no-spec`
