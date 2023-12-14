@@ -95,3 +95,7 @@ Nest is [MIT licensed](LICENSE).
 - generate a service
 
 `nest g service module-name --no-spec`
+
+<!-- insert get.png from imgs folder -->
+
+![get](imgs/get.png)
